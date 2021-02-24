@@ -1,0 +1,7 @@
+Hat, 15.00
+Teddy Bear, 25.75
+Speaker, 59.99
+Necklace, 129.95
+Chair, 145.99
+Kayak, 209.25
+xbox, 295.95
